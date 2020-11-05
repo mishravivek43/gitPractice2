@@ -8,4 +8,6 @@ echo $sum
 echo "Lets Substract Two Numbers"
 ((subResult=x-y))
 echo $subResult
-
+echo "Lets Multiply Two Numbers"
+((mulResult=x*y))
+echo $mulResult
