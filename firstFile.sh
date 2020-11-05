@@ -11,3 +11,7 @@ echo $subResult
 echo "Lets Multiply Two Numbers"
 ((mulResult=x*y))
 echo $mulResult
+echo "Lets Divide Two Numbers"
+((divResult=x/y))
+echo $divResult
+
